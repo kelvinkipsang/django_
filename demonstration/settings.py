@@ -120,7 +120,7 @@ USE_TZ = True
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
-    '/home/kel/Documents/projects/django-github/demonstration/static/',
+    
 ]
 
 STATIC_URL = '/static/'
